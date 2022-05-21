@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadhridoy/NodeJS_CRUD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadhridoy/NodeJS_CRUD/issues"
+  },
+  "homepage": "https://github.com/ahmadhridoy/NodeJS_CRUD#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
